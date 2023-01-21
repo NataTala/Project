@@ -12,5 +12,5 @@ const person = {
   }
 };
 
-console.log(person.sayHi());
+//console.log(person.sayHi());
 
